@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">John Smith</string>
+    <string name="title">Senior Software Developer</string>
+</resources>
